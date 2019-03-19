@@ -23,7 +23,6 @@ import javax.swing.JTextField;
  *
  * @author Abdullah Shublaq
  */
-
 public class GUI extends JFrame implements ActionListener {
 
     JTextField textField = new JTextField(10);
